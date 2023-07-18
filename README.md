@@ -1,0 +1,2 @@
+# GetHanziBihuaGIF
+Python获取百度汉语的汉字笔顺GIF动图
